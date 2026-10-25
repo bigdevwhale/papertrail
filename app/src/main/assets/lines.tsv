@@ -1,0 +1,59 @@
+# The evening report: one line a day, picked by what the day was like.
+# cond	ru	en. Marks: {who} the suspect of the day, {n} clues, {sum} the money, {day} the weekday, {м|ж} the detective's gender.
+QUIET	{day}. Дождь. Ни одной улики за весь день. Город затаился — или я наконец научил{ся|ась} не открывать кошелёк.	{day}. Rain. Not a single clue all day. Either the town's lying low, or I've finally learned to keep my wallet shut.
+QUIET	Тихий день. Конверты не приходили. Я смотрел{|а} на дождь и думал{|а}, что так, наверное, и выглядит покой.	A quiet day. No envelopes came. I watched the rain and thought this is probably what peace looks like.
+QUIET	Ноль. Пусто. Касса цела. В нашем деле это называется хорошей работой.	Nothing. Not a cent. The till's intact. In our line of work that's called a good day.
+QUIET	Подозреваемые сегодня не высовывались. Даже Бариста. Подозрительно — но приятно.	The suspects kept their heads down today. Even the Barista. Suspicious, but nice.
+QUIET	{day} прошёл чисто. Я налил{|а} себе кофе из своей же банки и почувствовал{|а} себя богачом.	{day} went clean. I poured myself coffee from my own tin and felt rich.
+QUIET	Сегодня город ничего у меня не взял. Записываю это в дело — пусть будет.	Today the town took nothing off me. I'm putting it in the file, just so it's there.
+QUIET	Ни шагу к кассе. Улица шумела, а я сидел{|а} в конторе и слушал{|а}, как стучит дождь.	Not a step towards a till. The street was loud, and I sat in the office listening to the rain.
+QUIET	День без улик. Такие дни потом ложатся в газету светлой полосой.	A day without clues. Days like this end up as a clean column in the paper.
+QUIET	Тишина. Ни конвертов, ни звонков. Я убрал{|а} пистолет в ящик и просто дышал{|а}.	Silence. No envelopes, no calls. I put the gun back in the drawer and just breathed.
+QUIET	Пустой день в книге расходов. Лучшее, что можно о нём сказать, — его не нужно расследовать.	An empty day in the ledger. The best thing about it is there's nothing to investigate.
+CALM	{day}. {n} улик, всё в пределах аванса. Город платит — я плачу. Честная сделка.	{day}. {n} clues, all within the advance. The town charges, I pay. Fair deal.
+CALM	Сегодня ушло {sum}. В рамках. Клиент был бы доволен, если бы клиентом не был{|а} я сам{|а}.	{sum} went today. Within bounds. The client would be pleased, if the client weren't me.
+CALM	Обычный день. {who} засветился, но держался в рамках. Я записал{|а} и отпустил{|а}.	An ordinary day. {who} showed up but stayed in line. I wrote it down and let it go.
+CALM	{n} улик на столе, и ни одна не пахнет бедой. Иногда день — просто день.	{n} clues on the desk and none of them smell of trouble. Sometimes a day's just a day.
+CALM	Аванс выдержал. Спички в коробке ещё есть. Завтра будет чем зажечь.	The advance held. There are still matches in the box. Something to strike tomorrow.
+CALM	Потрачено {sum}. Я пересчитал{|а} дважды — сходится. В этом городе это редкость.	Spent {sum}. I counted twice; it adds up. Rare in this town.
+CALM	{who} опять был рядом. Ничего криминального. Пока.	{who} was around again. Nothing criminal. Yet.
+CALM	Город сегодня вёл себя прилично. Я тоже. Записываю ничью.	The town behaved today. So did I. I'm calling it a draw.
+CALM	Всё по плану. Скучно, как протокол, — и именно поэтому хорошо.	All to plan. Dull as a report, and that's exactly why it's good.
+CALM	{day}: {n} улик, {sum}, ни одной лишней спички. Можно спать.	{day}: {n} clues, {sum}, not one match too many. Time to sleep.
+OVER	{day}. Аванс на сегодня кончился раньше, чем день. {who} ушёл с моими деньгами под дождь.	{day}. Today's advance ran out before the day did. {who} walked off into the rain with my money.
+OVER	Сегодня ушло {sum}. Больше, чем было в коробке. Завтра спичек будет меньше — так работает этот город.	{sum} went today. More than was in the box. Tomorrow there'll be fewer matches; that's how this town works.
+OVER	Перебор. Я не ругаю себя — я записываю. Ругань улик не добавляет.	Over the line. I'm not scolding myself, I'm taking notes. Scolding never found a clue.
+OVER	{who} провернул дельце прямо у меня под носом. Ладно. Утро вечера мудренее.	{who} pulled a job right under my nose. Fine. Things look better in the morning.
+OVER	Касса пробита. Не смертельно: остаток аванса пересчитан на оставшиеся дни.	The till's dented. Not fatal: what's left of the advance is spread over the days remaining.
+OVER	Сегодня я был{|а} не сыщиком, а клиентом всех лавок города. Бывает и так.	Today I wasn't a detective, I was every shop's best customer. It happens.
+OVER	{n} улик и ни одной причины гордиться. Но и стыдиться нечего — дело ещё не закрыто.	{n} clues and nothing to be proud of. Nothing to be ashamed of either; the case isn't closed.
+OVER	Деньги ушли быстрее, чем дождь по стеклу. Завтра коробок будет тоньше.	The money ran faster than rain down the glass. The box will be thinner tomorrow.
+OVER	Я превысил{|а} аванс на сегодня. {who}, я запомнил{|а} твоё лицо.	I went over today's advance. {who}, I've seen your face.
+OVER	Сегодня городу досталось больше, чем стоило. Пометка в деле: присмотреться к {who}.	Today the town got more than it should have. Note in the file: keep an eye on {who}.
+BIG	Одна улика весила больше всего дня. {who}, {sum} — такое не забывают.	One clue outweighed the whole day. {who}, {sum}: you don't forget that.
+BIG	Крупная сделка. Если она была нужна — дело закрыто, не начавшись. Если нет — мы ещё поговорим.	A big deal. If it was needed, the case closes before it opens. If not, we'll talk.
+BIG	{sum} одним махом. Я долго смотрел{|а} на эту улику под лампой. Она смотрела в ответ.	{sum} in one go. I looked at that clue under the lamp for a long time. It looked back.
+BIG	Сегодня был большой улов у {who}. Иногда крупная трата — это просто жизнь. Иногда — нет.	{who} had a big haul today. Sometimes a big spend is just life. Sometimes it isn't.
+BIG	Одна покупка — и коробок заметно полегчал. Запишу: разобраться на свежую голову.	One purchase and the matchbox got noticeably lighter. Note: look at it with a fresh head.
+BIG	{who} сорвал куш: {sum}. Посмотрим, была ли это сделка века.	{who} hit the jackpot: {sum}. We'll see if it was the deal of the century.
+BUSY	{n} улик за день. Стол завален конвертами, как в худшие времена.	{n} clues in one day. The desk's buried in envelopes, like the bad old days.
+BUSY	Город сегодня тянул меня за рукав {n} раз. Я поддавал{ся|ась}. Не каждый раз нужно было.	The town tugged my sleeve {n} times today. I gave in. Not every time was needed.
+BUSY	{n} мелких улик. По отдельности — ерунда. Вместе — почерк.	{n} small clues. On their own, nothing. Together, a pattern.
+BUSY	Суетливый {day}. Касса звенела, как трамвай. {who} был в каждом втором конверте.	A busy {day}. The till rang like a tram. {who} was in every other envelope.
+BUSY	{n} раз за день я доставал{|а} кошелёк. Завтра попробую реже — хотя бы назло {who}.	{n} times today I reached for my wallet. Tomorrow I'll try fewer, if only to spite {who}.
+LATE	После десяти город снова взял своё. Ночные улики — самые честные: в них видно, как я устал{|а}.	After ten the town took its cut again. Night clues are the most honest: they show how tired I was.
+LATE	Поздний конверт. {who} знает, когда я слабее всего, — и приходит именно тогда.	A late envelope. {who} knows when I'm weakest, and that's exactly when he comes.
+LATE	Ночь, дождь и трата после десяти. Классика жанра.	Night, rain and a spend after ten. A genre classic.
+LATE	Записываю: опять ночью. Не обвиняю — просто ставлю точку на карте.	Noted: at night again. I'm not accusing, just putting a pin on the map.
+LATE	Город не спит, и мой кошелёк, похоже, тоже. {who} снова отметился затемно.	The town doesn't sleep, and neither, it seems, does my wallet. {who} showed up after dark again.
+FIRST	Новый аванс на столе. Чистая книга, полный коробок спичек. В этом городе это почти счастье.	A new advance on the desk. A clean ledger, a full box of matches. In this town that's nearly happiness.
+FIRST	Гонорар получен. Первый день — самый опасный: денег много, и все хотят их видеть.	The fee's in. The first day is the most dangerous: there's a lot of money and everyone wants to see it.
+FIRST	Начало периода. Я разложил{|а} деньги по ящикам и запер{|ла} стол. Посмотрим, сколько продержится замок.	Start of the period. I sorted the money into drawers and locked the desk. Let's see how long the lock holds.
+FIRST	Свежий аванс. Подозреваемые уже выстроились в очередь за дверью. Пусть подождут.	A fresh advance. The suspects are already lined up outside the door. They can wait.
+LAST	До гонорара считанные дни. Каждая спичка на счету — и это даже красиво.	Only a few days to the fee. Every match counts, and there's even something beautiful in that.
+LAST	Конец периода близко. Касса тонкая, но живая. Дотянем.	The end of the period's close. The till's thin but breathing. We'll make it.
+LAST	Последние дни аванса. В такие вечера видно, кто в этом городе настоящий друг.	The last days of the advance. On nights like this you see who your real friends in this town are.
+LAST	Скоро новый аванс, скоро газета. Хочется, чтобы заголовок был про меня, а не про {who}.	The new advance is near, and the paper. I'd like the headline to be about me, not about {who}.
+FEE	Гонорар пришёл, {sum}. Город любит деньги в чужих руках. Посмотрим, у кого они окажутся.	The fee came in, {sum}. This town loves money in other people's hands. We'll see whose they end up in.
+FEE	На счёт упало {sum}. Я положил{|а} конверт в сейф мысленно — прежде чем его положит туда кто-то другой.	{sum} landed in the account. I put the envelope in the safe in my head, before someone else could.
+FEE	Поступление: {sum}. Хороший день, чтобы ничего не покупать в честь хорошего дня.	Incoming: {sum}. A good day not to buy anything in honour of a good day.

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Paper Trail</string>
+    <string name="informant_label">Paper Trail informant</string>
+    <string name="tab_office">Office</string>
+    <string name="tab_board">Board</string>
+    <string name="tab_files">Files</string>
+    <string name="tab_safe">Safe</string>
+    <string name="tab_paper">Paper</string>
+    <string name="channel_report">Evening report</string>
+    <string name="channel_cases">New cases</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Night, and the shadow of the blinds. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path android:fillColor="#FF1C1A18" android:pathData="M0,0h108v108h-108z" />
+    <path android:fillColor="#14F2DFB0" android:pathData="M-10,30L118,-12L118,-4L-10,38z" />
+    <path android:fillColor="#14F2DFB0" android:pathData="M-10,50L118,8L118,16L-10,58z" />
+    <path android:fillColor="#14F2DFB0" android:pathData="M-10,70L118,28L118,36L-10,78z" />
+    <path android:fillColor="#14F2DFB0" android:pathData="M-10,90L118,48L118,56L-10,98z" />
+    <path android:fillColor="#14F2DFB0" android:pathData="M-10,110L118,68L118,76L-10,118z" />
+</vector>

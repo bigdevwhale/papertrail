@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- A magnifying glass over three pins tied with red thread. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path android:strokeColor="#FFB3262B" android:strokeWidth="2.6" android:strokeLineCap="round" android:strokeLineJoin="round"
+        android:pathData="M38,58L50,42L64,56L58,40" />
+    <path android:fillColor="#FFB3262B" android:pathData="M38,58m-3.6,0a3.6,3.6 0,1 1,7.2 0a3.6,3.6 0,1 1,-7.2 0" />
+    <path android:fillColor="#FFB3262B" android:pathData="M50,42m-3.6,0a3.6,3.6 0,1 1,7.2 0a3.6,3.6 0,1 1,-7.2 0" />
+    <path android:fillColor="#FFB3262B" android:pathData="M64,56m-3.6,0a3.6,3.6 0,1 1,7.2 0a3.6,3.6 0,1 1,-7.2 0" />
+    <path android:fillColor="#FFB3262B" android:pathData="M58,40m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0" />
+    <path android:fillColor="#FFE8E1D0" android:fillType="evenOdd"
+        android:pathData="M51,26A23,23 0,1 1,51 72A23,23 0,1 1,51 26ZM51,31A18,18 0,1 0,51 67A18,18 0,1 0,51 31Z" />
+    <path android:fillColor="#FFE8E1D0" android:pathData="M66.5,68.5l4.2,-4.2l14.5,14.5a3,3 0,0 1,-4.2 4.2z" />
+</vector>

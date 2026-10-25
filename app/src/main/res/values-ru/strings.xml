@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Висяк</string>
+    <string name="informant_label">Осведомитель «Висяка»</string>
+    <string name="tab_office">Контора</string>
+    <string name="tab_board">Доска</string>
+    <string name="tab_files">Картотека</string>
+    <string name="tab_safe">Сейф</string>
+    <string name="tab_paper">Газета</string>
+    <string name="channel_report">Вечерний рапорт</string>
+    <string name="channel_cases">Новые дела</string>
+</resources>
